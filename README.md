@@ -19,8 +19,8 @@ I'm Rajasri Veeramusti
 - Path Download Hub
 
 ## 📫 Connect with me
-- LinkedIn: (add your LinkedIn link)
-- Email: (your email)
+- LinkedIn: (https://www.linkedin.com/in/rajasri-veeramusti-87a26630a/)
+- Email: (rajasriveeramusti8@gmail.com)
 <!--
 **RajasriVeeramusti/Rajasriveeramusti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
