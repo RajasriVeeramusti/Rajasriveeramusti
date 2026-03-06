@@ -1,5 +1,26 @@
 ## Hi there 👋
+# Hi 👋 I'm Rajasri
 
+🎓 Data Science Undergraduate  
+📊 Interested in Data Analysis, Machine Learning, and AI  
+💻 Skilled in Python, Scikit-learn, and Data Visualization  
+
+## 🔧 Technologies & Tools
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- SQL
+- Git & GitHub
+
+## 🚀 Projects
+- Diabetes Risk Predictor
+- Personal Finance Planner
+- Path Download Hub
+
+## 📫 Connect with me
+- LinkedIn: (add your LinkedIn link)
+- Email: (your email)
 <!--
 **RajasriVeeramusti/Rajasriveeramusti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
