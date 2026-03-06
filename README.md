@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Hi 👋 I'm Rajasri
+I'm Rajasri Veeramusti
 
 🎓 Data Science Undergraduate  
 📊 Interested in Data Analysis, Machine Learning, and AI  
